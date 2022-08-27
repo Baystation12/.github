@@ -15,8 +15,7 @@ right now we're still in testing and sandboxing and might not be running exactly
 ```mermaid
 graph TD;
     Internet-->HAProxy;
-    HAProxy-->Discord;
-    Discord-->ExCom;
+    HAProxy-->ExCom;
     HAProxy-->Arrivals;
     Warden-->Baystation;
     Arrivals-.->Warden;
