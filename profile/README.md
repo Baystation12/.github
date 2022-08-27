@@ -10,7 +10,8 @@ Hi there. Welcome to baystation. We're a Space Station 13 server and community, 
 
 [**ExCom**](https://github.com/Baystation12/ExCom) - A discord bot for server status display and admin commands.
 
-Once we're ready, we'll recommend something like this to people who want to run our stuff themselves:
+right now we're still in testing and sandboxing and might not be running exactly what's published. When we *are* ready, we'll recommend something like this to people who want to run our stuff themselves:
+
 ```mermaid
 graph TD;
     Internet-->HAProxy;
@@ -22,5 +23,4 @@ graph TD;
     ExCom---Baystation;
     ExCom---Warden;
 ```
-
-But right now we're still in testing and sandboxing and might not be running exactly what's published.
+ Doing this yourself right now is probably useless. Sorry about that.
