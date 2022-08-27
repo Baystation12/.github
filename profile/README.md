@@ -4,7 +4,7 @@ Hi there. Welcome to baystation. We're a Space Station 13 server and community, 
 
 [**Baystation**](https://github.com/Baystation12/Baystation12) - The actual game server.
 
-[**Arrivals**](https://github.com/Baystation12/Arrivals) - A new joinee terms display and filtration media.
+[**Arrivals**](https://github.com/Baystation12/Arrivals) - A new joinee terms display and filtration gateway.
 
 [**Warden**](https://github.com/Baystation12/Warden) - An front proxy for packet inspection, in its infancy.
 
