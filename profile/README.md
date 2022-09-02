@@ -16,6 +16,18 @@ The actual space station 13 game server.
 
 ---
 
+### [Atlas](https://github.com/Baystation12/Atlas)
+
+[Wiki](https://github.com/baystation12/atlas/wiki) - [Issues](https://github.com/baystation12/atlas/issues) - [Projects](https://github.com/baystation12/atlas/projects)
+
+[![License: ISC v3](https://img.shields.io/badge/License-ISC-informational.svg)](https://opensource.org/licenses/ISC) [![CodeQL](https://github.com/Baystation12/atlas/workflows/CodeQL/badge.svg)](https://github.com/baystation12/atlas/actions) [![codebeat badge](https://codebeat.co/badges/daa1d78c-f7f8-4ff8-9ac8-88b13c797eec)](https://codebeat.co/projects/github-com-baystation12-atlas-main)
+
+A map for baystation's narrative world.
+
+In progress.
+
+---
+
 ### [Arrivals](https://github.com/Baystation12/Arrivals)
 
 [Wiki](https://github.com/baystation12/arrivals/wiki) - [Issues](https://github.com/baystation12/arrivals/issues) - [Projects](https://github.com/baystation12/arrivals/projects)
