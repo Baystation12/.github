@@ -16,7 +16,7 @@ The actual space station 13 game server.
 
 ---
 
-### [Atlas](https://github.com/Baystation12/Atlas)
+### [Atlas](https://github.com/Baystation12/Atlas) -- **[View Here](http://atlas.baystation.xyz)**
 
 [Wiki](https://github.com/baystation12/atlas/wiki) - [Issues](https://github.com/baystation12/atlas/issues) - [Projects](https://github.com/baystation12/atlas/projects)
 
