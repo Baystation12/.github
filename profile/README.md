@@ -10,7 +10,7 @@ Hi there. Welcome to Baystation. We're a Space Station 13 server and community, 
 
 [Wiki](https://github.com/baystation12/arrivals/wiki) - [Issues](https://github.com/baystation12/arrivals/issues)
 
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3.0-orange.svg)](https://opensource.org/licenses/AGPL-3.0) [![CodeQL](https://github.com/Baystation12/Baystation12/workflows/CodeQL/badge.svg)](https://github.com/baystation12/Baystation12/actions) [![CI Status](https://github.com/Baystation12/Baystation12/workflows/Run%20Tests/badge.svg)](https://github.com/baystation12/baystation12/actions) [![codebeat badge](https://codebeat.co/badges/8ecb9a34-1bab-4d80-b34d-b16e8b216a03)](https://codebeat.co/projects/github-com-baystation12-baystation12-dev)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3.0-orange.svg)](https://opensource.org/licenses/AGPL-3.0) [![CodeQL](https://github.com/baystation12/baystation12/workflows/CodeQL/badge.svg)](https://github.com/baystation12/baystation12/actions) [![CI Status](https://github.com/baystation12/baystation12/workflows/Run%20Tests/badge.svg)](https://github.com/baystation12/baystation12/actions) [![codebeat badge](https://codebeat.co/badges/8ecb9a34-1bab-4d80-b34d-b16e8b216a03)](https://codebeat.co/projects/github-com-baystation12-baystation12-dev)
 
 The actual space station 13 game server.
 
