@@ -1,6 +1,6 @@
 # Baystation
 
-[Website](https://bay.ss13.me) - [Discord](https://bay.ss13.me/discord)
+[Website](https://baystation.xyz) - [Discord](https://baystation.xyz/discord)
 
 Hi there. Welcome to Baystation. We're a Space Station 13 server and community, and one of the oldest around. You can [check out our archives](https://github.com/orgs/Baystation12/repositories) if you're looking for something old but, otherwise, here's our current active project list.
 
@@ -64,15 +64,6 @@ In progress.
 
 ---
 
-Right now we're still in testing and sandboxing and, besides the game server, are probably not running exactly what we publish here. When we're in a stable state we'll recommend a setup like this to people who want a stack of security and user integration, although every part will be optional. We include HAProxy in front of everything for its ability to mitigate some kinds of attack. We also recommend making use of your service provider's firewall or mitigation services where available - a protected server is a playable server.
+Right now we're still in testing and sandboxing and, besides the game server, are probably not ourselves running exactly what we publish here.
 
-```mermaid
-graph TD;
-    Internet-->HAProxy;
-    HAProxy-->ExCom;
-    HAProxy-->Arrivals;
-    Warden-->Baystation;
-    Arrivals-.->Warden;
-    ExCom---Baystation;
-    ExCom---Warden;
-```
+Sorry about that.
